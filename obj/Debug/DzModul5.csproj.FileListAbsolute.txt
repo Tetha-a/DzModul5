@@ -1,0 +1,10 @@
+C:\Users\tokit\source\repos\DzModul5\DzModul5\bin\Debug\DzModul5.exe.config
+C:\Users\tokit\source\repos\DzModul5\DzModul5\bin\Debug\DzModul5.exe
+C:\Users\tokit\source\repos\DzModul5\DzModul5\bin\Debug\DzModul5.pdb
+C:\Users\tokit\source\repos\DzModul5\DzModul5\obj\Debug\DzModul5.csproj.AssemblyReference.cache
+C:\Users\tokit\source\repos\DzModul5\DzModul5\obj\Debug\DzModul5.Form1.resources
+C:\Users\tokit\source\repos\DzModul5\DzModul5\obj\Debug\DzModul5.Properties.Resources.resources
+C:\Users\tokit\source\repos\DzModul5\DzModul5\obj\Debug\DzModul5.csproj.GenerateResource.cache
+C:\Users\tokit\source\repos\DzModul5\DzModul5\obj\Debug\DzModul5.csproj.CoreCompileInputs.cache
+C:\Users\tokit\source\repos\DzModul5\DzModul5\obj\Debug\DzModul5.exe
+C:\Users\tokit\source\repos\DzModul5\DzModul5\obj\Debug\DzModul5.pdb
